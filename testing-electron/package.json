@@ -1,0 +1,22 @@
+{
+  "name": "test-app",
+  "version": "0.1.0",
+  "description": "trying out electron.js for the first time",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "test-electron-app"
+  },
+  "keywords": [
+    "test",
+    "electron"
+  ],
+  "author": "jeretigerxu",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
