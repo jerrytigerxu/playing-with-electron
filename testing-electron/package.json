@@ -17,6 +17,6 @@
   "author": "jeretigerxu",
   "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^9.1.1"
+    "electron": "^13.6.6"
   }
 }
